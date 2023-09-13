@@ -10,8 +10,7 @@ We will start by seeing how we can make some basic programming instructions usin
 
 1. Right click on the tab that this file is in, and choose the "Open Preview" option. Note that this will open up this file in another tab, but with important formatting changes.
 2. Open a new terminal in Visual Studio Code
-3. Type in "py"  this will start a python session. You will recognize it by the prompt (where you type in commands) turning into a >>>
-4. Type exit()  Note that his is how you can exit from a python session. This is important because when we normally run programs from VSC, it will start a python session, and if one is open, it can't open another.  Knowing how to close a python session with exit() can be helpful
+3. Type in "py"  this will start a python session. You will recognize it by the prompt (where you type in commands) turning into a >>>te that his is how you can exit from a python session. This is important because when we normally run programs from VSC, it will start a python session, and if one is open, it can't open another.  Knowing how to close a python session with exit() can be helpful
 5. Re-enter a python session and type in the following commands:
 ```
 import turtle
